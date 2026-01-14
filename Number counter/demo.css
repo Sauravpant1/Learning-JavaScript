@@ -1,0 +1,24 @@
+body
+{
+    text-align: center;
+}
+#label
+{
+    font-size: 2em;
+}
+.buttons
+{
+     padding: 10px 20px;
+     font-size: 1em;
+     border-radius: 15px;
+     border-color:cyan;
+     background-color: black;
+     color: white;
+}
+.buttons:hover
+{
+    color:rgb(55, 0, 0);
+    background-color: rgb(129, 104, 104);
+    border-color: green;
+    cursor: pointer;
+}
