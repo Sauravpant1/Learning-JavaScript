@@ -1,0 +1,1 @@
+This program generates a random number and allowss you to guess that number.
