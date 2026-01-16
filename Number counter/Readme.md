@@ -1,0 +1,1 @@
+This is a basic JavaScript program which counts the number.
