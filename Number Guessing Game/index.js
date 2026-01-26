@@ -7,7 +7,7 @@ let guess;
 let running = true;
 while(running)
 {
-    guess = prompt(`Enter a number between ${min} and ${max} the answer is ${ans}`);
+    guess = prompt(`Enter a number between ${min} and ${max}`);
     guess = parseInt(guess);
     if(isNaN(guess))
     {
